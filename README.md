@@ -81,7 +81,7 @@ http://localhost:8000/stocks
 
 Administrador
 
-* usuario: admin
+* usuario: admsa
 * contraseña: 12345
 
 
